@@ -1,1 +1,19 @@
-DOMAIN-SUFFIX,youtube.music
+#DOMAIN-SUFFIX,youtube.music
+# YouTube 视频核心域名
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,withgoogle.com
+# 广告相关（YouTube 经常连接）
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googlesyndication.com
+# 可选 CDN 覆盖（如需更广匹配可保留）
+# DOMAIN-SUFFIX,cloudflare.com
+# DOMAIN-SUFFIX,akamai.net
+# DOMAIN-SUFFIX,akamaiedge.net
+# DOMAIN-SUFFIX,edgesuite.net
